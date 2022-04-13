@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(84, 139, 206, 0.94);
+}
+.container {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.uploadInfo {
+    color: rgba(84, 139, 206, 0.94);
+    font-size: 150px !important;
+}
+
+.uploadButton {
+    background-color: rgba(84, 139, 206, 0.94) !important;
+}
+
+.uploadText {
+    font-size: 16px !important;
+    font-weight: bold;
+}
